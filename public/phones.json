@@ -1,0 +1,22 @@
+[
+  { "brand": "Apple", "model": "iPhone 13", "price": 799, "color": "Black" },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S22",
+    "price": 999,
+    "color": "Phantom White"
+  },
+  { "brand": "Google", "model": "Pixel 7", "price": 599, "color": "Charcoal" },
+  { "brand": "OnePlus", "model": "OnePlus 10", "price": 699, "color": "Blue" },
+  { "brand": "Xiaomi", "model": "Mi 12", "price": 549, "color": "Gray" },
+  { "brand": "Sony", "model": "Xperia 5 IV", "price": 799, "color": "Green" },
+  { "brand": "Nokia", "model": "G50", "price": 299, "color": "Sand" },
+  {
+    "brand": "Motorola",
+    "model": "Edge 30",
+    "price": 499,
+    "color": "Steel Blue"
+  },
+  { "brand": "Huawei", "model": "P50", "price": 899, "color": "Gold" },
+  { "brand": "Asus", "model": "Zenfone 9", "price": 749, "color": "Red" }
+]
